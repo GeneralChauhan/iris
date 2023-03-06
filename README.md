@@ -1,5 +1,5 @@
-# Freespeak
-Hi, this is our super duper presentation trainer!
+# Iris
+Hi, this is a super duper presentation trainer!
 Public speaking is nowadays a common task in our daily life performed by every type of individual in every kind of domain possible, such as presentations and seminars by students or pitches by innovators. However, this type of task requires skill and cannot be mastered by everyone with ease. Furthermore, the fear of public speaking is very common and sometimes hard to overcome. Nonetheless, it is part of our education and our work life and therefore inevitable.
 That is where our presentation trainer comes in!
 The trainer is an application that helps people with difficulties in public speaking and overcome their fear by providing sophisticated training as a preparation for their incoming presentation. It records speech and movements of the speaker in a video and analyses his/her speak pattern. Graphs representing the speaker's patterns will be given at the end along with tips of improvements.
